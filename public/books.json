@@ -1,0 +1,95 @@
+[
+{
+"id":1,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book1.jpg"
+
+},
+{
+"id":2,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book2.jpg"
+
+},
+{
+"id":3,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book3.jpg"
+
+},
+{
+"id":4,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book4.jpg"
+
+},
+{
+"id":5,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book5.jpg"
+
+},
+{
+"id":6,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book6.jpg"
+
+},
+{
+"id":7,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book7.jpg"
+
+},
+{
+"id":8,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book8.jpg"
+
+},
+{
+"id":9,
+"title": "The catcher in the Rye",
+"author":"Awland Hossain",
+"genre": "Fiction",
+"rating": 5.0,
+"categories":["Young adult","Identity"],
+"image": "/images/book9.jpg"
+
+}
+
+
+
+]
