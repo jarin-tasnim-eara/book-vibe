@@ -6,8 +6,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book1.png"
-
+"image": "/images/book1.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":2,
@@ -16,8 +19,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book2.png"
-
+"image": "/images/book2.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":3,
@@ -26,8 +32,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book3.png"
-
+"image": "/images/book3.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":4,
@@ -36,8 +45,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book4.png"
-
+"image": "/images/book4.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":5,
@@ -46,8 +58,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book5.png"
-
+"image": "/images/book5.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":6,
@@ -56,8 +71,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book6.png"
-
+"image": "/images/book6.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":7,
@@ -66,8 +84,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book7.png"
-
+"image": "/images/book7.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":8,
@@ -76,8 +97,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book8.png"
-
+"image": "/images/book8.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 },
 {
 "id":9,
@@ -86,8 +110,11 @@
 "genre": "Fiction",
 "rating": 5.0,
 "categories":["Young adult","Identity"],
-"image": "/images/book9.png"
-
+"image": "/images/book9.png",
+"review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+"pages": 281,
+"publisher": "J.B Lippincott & Co.",
+"yearOfPublishing": 1960
 }
 
 
