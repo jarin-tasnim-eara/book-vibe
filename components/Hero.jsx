@@ -4,8 +4,7 @@ import Image from 'next/image';
 const Hero = () => {
   return (
     <div className="w-full bg-[#f3f8f3] px-6 py-12 md:py-20 flex flex-col md:flex-row items-center justify-between max-w-6xl mx-auto rounded-xl mt-6">
-      
-      {/* Left side */}
+   
       <div className="md:w-1/2 text-center md:text-left">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-800 leading-snug">
           Books to freshen up <br /> your bookshelf
@@ -17,7 +16,6 @@ const Hero = () => {
         </Link>
       </div>
 
-      {/* Right side */}
       <div className="md:w-1/2 flex justify-center mt-8 md:mt-0">
         <Image
           src="/images/book.png"

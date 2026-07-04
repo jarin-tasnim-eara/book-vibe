@@ -17,11 +17,11 @@
 "title": "The catcher in the Rye",
 "author":"Awland Hossain",
 "genre": "Fiction",
-"rating": 5.0,
+"rating": 2.0,
 "categories":["Young adult","Identity"],
 "image": "/images/book2.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 271,
 "publisher": "J.B Lippincott & Co.",
 "yearOfPublishing": 1960
 },
@@ -30,13 +30,13 @@
 "title": "The catcher in the Rye",
 "author":"Awland Hossain",
 "genre": "Fiction",
-"rating": 5.0,
+"rating": 3.0,
 "categories":["Young adult","Identity"],
 "image": "/images/book3.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 290,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 1965
 },
 {
 "id":4,
@@ -47,9 +47,9 @@
 "categories":["Young adult","Identity"],
 "image": "/images/book4.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 100,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 1962
 },
 {
 "id":5,
@@ -60,22 +60,22 @@
 "categories":["Young adult","Identity"],
 "image": "/images/book5.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 200,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 2003
 },
 {
 "id":6,
 "title": "The catcher in the Rye",
 "author":"Awland Hossain",
 "genre": "Fiction",
-"rating": 5.0,
+"rating": 4.8,
 "categories":["Young adult","Identity"],
 "image": "/images/book6.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 280,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 2023
 },
 {
 "id":7,
@@ -86,20 +86,20 @@
 "categories":["Young adult","Identity"],
 "image": "/images/book7.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 181,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 2000
 },
 {
 "id":8,
 "title": "The catcher in the Rye",
 "author":"Awland Hossain",
 "genre": "Fiction",
-"rating": 5.0,
+"rating": 4.5,
 "categories":["Young adult","Identity"],
 "image": "/images/book8.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 991,
 "publisher": "J.B Lippincott & Co.",
 "yearOfPublishing": 1960
 },
@@ -108,13 +108,13 @@
 "title": "The catcher in the Rye",
 "author":"Awland Hossain",
 "genre": "Fiction",
-"rating": 5.0,
+"rating":4.0,
 "categories":["Young adult","Identity"],
 "image": "/images/book9.png",
 "review" :"Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare. Id neque neque pretium enim plates urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
-"pages": 281,
+"pages": 231,
 "publisher": "J.B Lippincott & Co.",
-"yearOfPublishing": 1960
+"yearOfPublishing": 1962
 }
 
 
