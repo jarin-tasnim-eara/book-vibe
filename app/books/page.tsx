@@ -37,7 +37,7 @@ export default function BooksPage(){
 
     
       <div className="flex justify-center mb-8 relative">
-        <button onClick={() => setDropdownOpen(!dropdownOpen)} className="px-5 py-2 bg-[#23BE0A] text-white rounded-md flex items-center gap-2 hover:bg-green-600 text-sm" > Sort By </button>
+        <button onClick={() => setDropdownOpen(!dropdownOpen)} className="px-5 py-2 bg-[#23BE0A] text-white rounded-md flex items-center gap-2 hover:bg-pink-400 text-sm" > Sort By </button>
 
         {dropdownOpen && (
           <div className="absolute top-11 bg-gray-100 rounded-md shadow-md py-2 w-[180px] text-center z-10">

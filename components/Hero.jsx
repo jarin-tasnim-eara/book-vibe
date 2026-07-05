@@ -10,7 +10,7 @@ const Hero = () => {
           Books to freshen up <br /> your bookshelf
         </h1>
         <Link href="/books">
-          <button className="mt-6 px-6 py-3 bg-[#23BE0A] text-white rounded-md font-semibold hover:bg-green-600">
+          <button className="mt-6 px-6 py-3 bg-[#23BE0A] text-white rounded-md font-semibold hover:bg-pink-400">
             View The List
           </button>
         </Link>

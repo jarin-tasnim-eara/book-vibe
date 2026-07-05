@@ -37,7 +37,7 @@ const BookListItem =({ book }) =>{
             <span className="px-3 py-1 bg-blue-100 text-blue-600 rounded-full text-xs"> Category: {book.genre}</span>
             <span className="px-3 py-1 bg-orange-100 text-orange-600 rounded-full text-xs">Rating: {book.rating}</span>
             <Link href={`/books/${book.id}`} className="ml-auto">
-            <button className="px-5 py-1.5 bg-[#23BE0A] text-white rounded-md hover:bg-green-600 text-sm font-medium"> View Details</button>
+            <button className="px-5 py-1.5 bg-[#23BE0A] text-white rounded-md hover:bg-pink-400 text-sm font-medium"> View Details</button>
             </Link>
           </div>
         </div>
